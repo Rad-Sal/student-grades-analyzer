@@ -21,7 +21,8 @@ python student_grades_analyzer.py
 
 ---
 
-## 🙌 About This Project
-This is my very first Python project.  
-I’m a self-taught learner currently practicing Python basics (lists, dictionaries, sets, loops, etc.).  
-The goal of this project is to build a foundation and slowly grow my skills toward more advanced projects.  
+🙌 About This Project
+
+This is my very first Python project.
+I’m a self-taught learner currently practicing Python basics like lists, dictionaries, sets, and loops.
+The goal of this project is to build a foundation and gradually grow my skills toward more advanced projects.
